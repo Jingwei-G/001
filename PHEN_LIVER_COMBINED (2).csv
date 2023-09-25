@@ -1,0 +1,133 @@
+ICD_10,READ_CD,DESCRIPTION,CATEGORY ,STAGE,TIER,PHENOTYPE ,Clean description
+B15,,"Acute viral hepatitis, Hepatitis A",Acute viral hepatitis,Acute,,Acute Liver disease ,Acute HAV
+B19,A70z1,"Acute viral hepatitis, Viral hepatitis other",Acute viral hepatitis,Acute,,Acute Liver disease ,Acute viral hepatitis - other
+B16,,"Acute viral hepatitis, Acute hepatitis B",Acute viral hepatitis,Acute,,Acute Liver disease ,Acute HBV
+B17,AyuB0,Acute viral hepatitis,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute viral hepatitis - other
+,XE2u.,Hepatitis A,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute HAV
+,Q4090,Hepatitis A,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute HAV
+B159,A700.,"Hepatitis A, Acute viral hepatitis with coma",Acute viral hepatitis,Acute,,Acute Liver disease ,Acute HAV
+,A701.,Hepatitis A,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute HAV
+B172,A7052,Hepatitis E,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute HEV
+,43B5.,Hepatitis E ,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute HEV
+B178,A70..,Viral hepatitis other,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute viral hepatitis
+B179,A706.,"Viral hepatitis other, Acute viral hepatitis with coma",Acute viral hepatitis,Acute,,Acute Liver disease ,Acute viral hepatitis
+B180,A708.,"Viral hepatitis other, Acute viral hepatitis with coma",Acute viral hepatitis,Acute,,Acute Liver disease ,Acute viral hepatitis
+B179,A709.,Viral hepatitis other,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute viral hepatitis
+B179,A70z.,Viral hepatitis other,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute viral hepatitis
+B171,A70G.,Acute hepatitis C,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute HCV
+B159,A704.,Acute viral hepatitis with coma,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute HAV
+B169,AyuB3,Acute viral hepatitis with coma,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute HBV
+B179,,Acute viral hepatitis with coma,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute viral hepatitis
+B199,,Acute viral hepatitis with coma,Acute viral hepatitis,Acute,,Acute Liver disease ,Acute viral hepatitis
+K720,J6000 ,Acute hepatic failure,Acute liver failure ,Acute,,Acute Liver disease ,Acute liver failure 
+I820,G820.,Budd-Chiari,Budd-Chiari,Acute,,Acute Liver disease ,Budd-Chiari
+K750,J62..,Abscess of the liver,Infection/infarction,Acute,,Acute Liver disease ,Liver abscess
+,J620.,Abscess of the liver ,Infection/infarction,Acute,,Acute Liver disease ,Liver abscess
+,J6200,Abscess of the liver ,Infection/infarction,Acute,,Acute Liver disease ,Liver abscess
+,J6201,Abscess of the liver ,Infection/infarction,Acute,,Acute Liver disease ,Liver abscess
+,J6202,Abscess of the liver ,Infection/infarction,Acute,,Acute Liver disease ,Liver abscess
+,J6203,Abscess of the liver ,Infection/infarction,Acute,,Acute Liver disease ,Liver abscess
+,J6204,Abscess of the liver ,Infection/infarction,Acute,,Acute Liver disease ,Liver abscess
+,J620z,Abscess of the liver ,Infection/infarction,Acute,,Acute Liver disease ,Liver abscess
+,A053.,Abscess of the liver ,Infection/infarction,Acute,,Acute Liver disease ,Liver abscess
+K763,J634.,Infarction of liver,Infection/infarction,Acute,,Acute Liver disease ,Liver infarction
+K751,J621. ,phlebitis of portal vein,Infection/infarction,Acute,,Acute Liver disease ,Portal vein phlebitis
+K752,J63y1,Nonspecific reactive hepatitis,Other nonspecified acute liver injuries,Acute,,Acute Liver disease ,Nonspecific reactive hepatitis
+K754,J63B.,Autoimmune hepatitis,Autoimmune liver disease,Stage1,Tier1,Chronic liver disease,Autoimmune hepatitis
+,J6141,Autoimmune hepatitis,Autoimmune liver disease,Stage1,Tier1,Chronic liver disease,Autoimmune hepatitis
+K743,J6160 ,Primary biliary cholangitis,Autoimmune liver disease,Stage1,Tier1,Chronic liver disease,Primary biliary cholangitis
+K831,J6617,Primary sclerosing cholangitis,Autoimmune liver disease,Stage1,Tier1,Chronic liver disease,Primary sclerosing cholangitis
+K753,J63X.,Granulomatous hepatitis not elsewhere specified,Autoimmune liver disease,Stage1,Tier1,Chronic liver disease,Granulomatous hepatitis not elsewhere specified
+E831,C3500 ,Haemochromatosis,Haemochromatosis,Stage1,Tier1,Chronic liver disease,Haemochromatosis 
+E880,C3762,Alpha 1 anti-trypsin deficiency,Metabolic liver disease,Stage1,Tier1,Chronic liver disease,Alpha 1 anti-trypsin deficiency
+,C3761,Alpha 1 anti-trypsin deficiency,Metabolic liver disease,Stage1,Tier1,Chronic liver disease,Alpha 1 anti-trypsin deficiency
+E830,C3510 ,Wilson’s disease,Metabolic liver disease,Stage1,Tier1,Chronic liver disease,Wilson’s disease
+B181,A7071,Hepatitis B without D,HBV,Stage1,Tier1,Chronic liver disease,Hepatitis B without D 
+,A7073,Hepatitis B without D,HBV,Stage1,Tier1,Chronic liver disease,Hepatitis B without D 
+,ZV02B,Hepatitis B without D,HBV,Stage1,Tier1,Chronic liver disease,Hepatitis B without D 
+,Q4091,Hepatitis B without D,HBV,Stage1,Tier1,Chronic liver disease,Hepatitis B without D 
+,43B4.,Hepatitis B without D,HBV,Stage1,Tier1,Chronic liver disease,Hepatitis B without D 
+B18,A707.,Chronic viral hepatitis,Chronic viral hepatitis,Stage1,Tier1,Chronic liver disease,Chronic viral hepatitis
+,AyuB2,Chronic viral hepatitis,Chronic viral hepatitis,Stage1,Tier1,Chronic liver disease,Chronic viral hepatitis
+,ZV026,Chronic viral hepatitis,Chronic viral hepatitis,Stage1,Tier1,Chronic liver disease,Chronic viral hepatitis
+,AyuB1,Chronic viral hepatitis,Chronic viral hepatitis,Stage1,Tier1,Chronic liver disease,Chronic viral hepatitis
+,A707X,Chronic viral hepatitis,Chronic viral hepatitis,Stage1,Tier1,Chronic liver disease,Chronic viral hepatitis
+B180,A7070,Hepatitis B with D,HBV,Stage1,Tier1,Chronic liver disease,Hepatitis B with D 
+,A7051,Hepatitis B with D,HBV,Stage1,Tier1,Chronic liver disease,Hepatitis B with D 
+B182,A7072,Hepatitis C,HCV,Stage1,Tier1,Chronic liver disease,Hepatitis C
+,A70z0,Hepatitis C,HCV,Stage1,Tier1,Chronic liver disease,Hepatitis C
+,A70A.,Hepatitis C,HCV,Stage1,Tier1,Chronic liver disease,Hepatitis C
+,A70B.,Hepatitis C,HCV,Stage1,Tier1,Chronic liver disease,Hepatitis C
+,A70C.,Hepatitis C,HCV,Stage1,Tier1,Chronic liver disease,Hepatitis C
+,A70D.,Hepatitis C,HCV,Stage1,Tier1,Chronic liver disease,Hepatitis C
+,A70E.,Hepatitis C,HCV,Stage1,Tier1,Chronic liver disease,Hepatitis C
+,A70F.,Hepatitis C,HCV,Stage1,Tier1,Chronic liver disease,Hepatitis C
+,ZV02C,Hepatitis C,HCV,Stage1,Tier1,Chronic liver disease,Hepatitis C
+K70,J613.,Alcoholic liver disease,Alcohol-related liver disease,Stage1,Tier1,Chronic liver disease,Alcoholic liver disease
+,J6130,Alcoholic liver disease,Alcohol-related liver disease,Stage1,Tier1,Chronic liver disease,Alcoholic liver disease
+,J612.,Alcoholic liver disease,Alcohol-related liver disease,Stage1,Tier1,Chronic liver disease,Alcoholic liver disease
+,J6120,Alcoholic liver disease,Alcohol-related liver disease,Stage1,Tier1,Chronic liver disease,Alcoholic liver disease
+,J610.,Alcoholic liver disease,Alcohol-related liver disease,Stage1,Tier1,Chronic liver disease,Alcoholic liver disease
+,J617.,Alcoholic liver disease,Alcohol-related liver disease,Stage1,Tier1,Chronic liver disease,Alcoholic liver disease
+,J6170,Alcoholic liver disease,Alcohol-related liver disease,Stage1,Tier1,Chronic liver disease,Alcoholic liver disease
+,J611.,Alcoholic liver disease,Alcohol-related liver disease,Stage1,Tier1,Chronic liver disease,Alcoholic liver disease
+K760,J61y1,Non-alcoholic fatty liver disease (NAFLD),Non-alcoholic fatty liver disease,Stage1,Tier1,Chronic liver disease,Non-alcoholic fatty liver disease (NAFLD)
+K7581,J61y8 ,Nonalcoholic steatohepatitis (NASH),Non-alcoholic fatty liver disease,Stage1,Tier1,Chronic liver disease,Nonalcoholic steatohepatitis (NASH)
+K769,,Inflammatory liver disease unspecified,Hepatitis not specified,Stage1,Tier2,Chronic liver disease,Inflammatory liver disease unspecified
+K7589,Jyu72 ,Other specified inflammatory liver disease,Hepatitis not specified,Stage1,Tier2,Chronic liver disease,Other specified inflammatory liver disease
+K73,J614y ,Chronic hepatitis not elsewhere classified,Hepatitis not specified,Stage1,Tier2,Chronic liver disease,Chronic hepatitis not elsewhere classified
+K761,J630.,Chronic passive congestion of the liver,Congestive hepatopathy,Stage1,Tier2,Chronic liver disease,Chronic passive congestion of the liver
+K762,J636.,Central haemorrhagic necrosis of the liver,Congestive hepatopathy,Stage1,Tier2,Chronic liver disease,Central haemorrhagic necrosis of the liver
+K765,J637.,Hepatic veno-occlusive disease,Congestive hepatopathy,Stage1,Tier2,Chronic liver disease,Hepatic veno-occlusive disease
+K71,J635.,Toxic liver disease,Toxic liver disease,Stage1,Tier2,Chronic liver disease,Toxic liver disease
+,J6350,Toxic liver disease,Toxic liver disease,Stage1,Tier2,Chronic liver disease,Toxic liver disease
+,J6351,Toxic liver disease,Toxic liver disease,Stage1,Tier2,Chronic liver disease,Toxic liver disease
+,J63252,Toxic liver disease,Toxic liver disease,Stage1,Tier2,Chronic liver disease,Toxic liver disease
+,J6353,Toxic liver disease,Toxic liver disease,Stage1,Tier2,Chronic liver disease,Toxic liver disease
+,J6354,Toxic liver disease,Toxic liver disease,Stage1,Tier2,Chronic liver disease,Toxic liver disease
+,J6355,Toxic liver disease,Toxic liver disease,Stage1,Tier2,Chronic liver disease,Toxic liver disease
+,J6356,Toxic liver disease,Toxic liver disease,Stage1,Tier2,Chronic liver disease,Toxic liver disease
+,J6357,Toxic liver disease,Toxic liver disease,Stage1,Tier2,Chronic liver disease,Toxic liver disease
+,J635X,Toxic liver disease,Toxic liver disease,Stage1,Tier2,Chronic liver disease,Toxic liver disease
+K764,J638.,Peliosis hepatis,Miscellaneous,Stage1,Tier3,Chronic liver disease,Peliosis hepatis
+K768,Jyu73,Other specified diseases of the liver,Miscellaneous,Stage1,Tier3,Chronic liver disease,Other specified diseases of the liver
+,J63yz,Other specified diseases of the liver,Miscellaneous,Stage1,Tier3,Chronic liver disease,Other specified diseases of the liver
+K77,Jyu75,Liver disorders in diseases classified elsewhere,Miscellaneous,Stage1,Tier3,Chronic liver disease,Liver disorders in diseases classified elsewhere
+K740,J61y4,Hepatic fibrosis or sclerosis,Hepatic fibrosis,Stage1.5,,Chronic liver disease,Hepatic fibrosis or sclerosis
+K741,J61y6,Hepatic fibrosis or sclerosis,Hepatic fibrosis,Stage1.5,,Chronic liver disease,Hepatic fibrosis or sclerosis
+K742,J61y5,Hepatic fibrosis or sclerosis,Hepatic fibrosis,Stage1.5,,Chronic liver disease,Hepatic fibrosis or sclerosis
+K703 ,,Alcoholic cirrhosis,Cirrhosis,"Stage1, & Stage2",,Chronic liver disease,Alcoholic cirrhosis
+K744,J6161 ,Secondary biliary cirrhosis,Cirrhosis,Stage2,,Chronic liver disease,Secondary biliary cirrhosis
+K745,J616z,Biliary cirrhosis unspecified,Cirrhosis,Stage2,,Chronic liver disease,Biliary cirrhosis unspecified
+K746,J615z,"Cirrhosis, other",Cirrhosis,Stage2,,Chronic liver disease,"Cirrhosis, other"
+K749,,"Cirrhosis, other",Cirrhosis,Stage2,,Chronic liver disease,"Cirrhosis, other"
+K766,J623.,Portal hypertension,Portal hypertension,Stage3,,Chronic liver disease,Portal hypertension
+I81,G81..,Portal vein thrombosis,Portal hypertension,Stage3,,Chronic liver disease,Portal vein thrombosis
+I859,,Oesophageal varices without bleeding,Portal hypertension,Stage3,,Chronic liver disease,Oesophageal varices without bleeding
+I982,G8523,Oesophageal varices without bleeding in diseases specified elsewhere,Portal hypertension,Stage3,,Chronic liver disease,Oesophageal varices without bleeding in diseases specified elsewhere
+,G852.,Oesophageal varices without bleeding in diseases specified elsewhere,Portal hypertension,Stage3,,Chronic liver disease,Oesophageal varices without bleeding in diseases specified elsewhere
+,G8521,Oesophageal varices without bleeding in diseases specified elsewhere,Portal hypertension,Stage3,,Chronic liver disease,Oesophageal varices without bleeding in diseases specified elsewhere
+,G8522,Oesophageal varices without bleeding in diseases specified elsewhere,Portal hypertension,Stage3,,Chronic liver disease,Oesophageal varices without bleeding in diseases specified elsewhere
+,G852z,Oesophageal varices without bleeding in diseases specified elsewhere,Portal hypertension,Stage3,,Chronic liver disease,Oesophageal varices without bleeding in diseases specified elsewhere
+I85,,oesphageal varices,Portal hypertension,Stage3,,Chronic liver disease,oesphageal varices
+K721,,Chronic hepatic failure,Hepatic decompensation,Stage4,,Chronic liver disease,Chronic hepatic failure
+K767,J624.,Hepatorenal syndrome,Hepatic decompensation,Stage4,,Chronic liver disease,Hepatorenal syndrome
+,SP143,Hepatorenal syndrome,Hepatic decompensation,Stage4,,Chronic liver disease,Hepatorenal syndrome
+I850,G850.,Oesophageal varices with bleeding,Hepatic decompensation,Stage4,,Chronic liver disease,Oesophageal varices with bleeding
+,G8520,Oesophageal varices with bleeding in diseases EC,Hepatic decompensation,Stage4,,Chronic liver disease,Oesophageal varices with bleeding in diseases EC
+K72,J625.,Hepatic failure unspecified,Hepatic decompensation,Stage4,,Chronic liver disease,Hepatic failure unspecified
+C220,B1503,Hepatocellular carcinoma,Hepatocellular carcinoma,Stage5,,Chronic liver disease,Hepatocellular carcinoma
+,BB5D7,Hepatocellular carcinoma ,Hepatocellular carcinoma,Stage5,,Chronic liver disease,Hepatocellular carcinoma
+,BB5D5,Hepatocellular carcinoma ,Hepatocellular carcinoma,Stage5,,Chronic liver disease,Hepatocellular carcinoma
+,BB5D8,Hepatocellular carcinoma,Hepatocellular carcinoma,Stage5,,Chronic liver disease,Hepatocellular carcinoma
+C221,B150.,Primary liver cancer,Intrahepatic Cholangio carcinoma,Stage5,,Chronic liver disease,Intrahepatic cholangiocarcinoma
+C222,B808.,Other liver cancers,Other primary liver cancer,Stage5,,Chronic liver disease,Other liver cancers
+C223,,Other liver cancers,Other primary liver cancer,Stage5,,Chronic liver disease,Other liver cancers
+C224,,Other liver cancers,Other primary liver cancer,Stage5,,Chronic liver disease,Other liver cancers
+C225,,Other liver cancers,Other primary liver cancer,Stage5,,Chronic liver disease,Other liver cancers
+C226,,Other liver cancers,Other primary liver cancer,Stage5,,Chronic liver disease,Other liver cancers
+C227,,Other liver cancers,Other primary liver cancer,Stage5,,Chronic liver disease,Other liver cancers
+,,,,,,,
+,,,,,,,
+ICD-10,READ_CD,DESCRIPTION,CATEGORY,Stage0,TIER,PHENOTYPE,
+F10,,Alcohol abuse and dependence,Alcohol related disorders,Stage0,,This code would be used in further analysis of the patient cohort,
